@@ -1,0 +1,16 @@
+{
+    "name": "Pizza Go",
+    "short_name": "Pizza Go",
+    "description": "Um aplicatico exclusivo para pedir a melhor pizza do mundo",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#f02929",
+    "theme_color": "#f02929",
+    "icons": [
+      {
+        "src": "icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
